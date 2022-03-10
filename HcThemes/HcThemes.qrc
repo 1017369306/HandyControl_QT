@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/HcThemes">
+        <file>Basics/fonts/webfont.ttf</file>
+        <file>Basics/Icons/svgs/add.svg</file>
+        <file>Basics/Icons/svgs/close.svg</file>
+        <file>Basics/Icons/svgs/file.svg</file>
+        <file>Basics/Icons/svgs/folder.svg</file>
+        <file>Basics/Icons/svgs/left.svg</file>
+        <file>Basics/Icons/svgs/pause.svg</file>
+        <file>Basics/Icons/svgs/play.svg</file>
+        <file>Basics/Icons/svgs/right.svg</file>
+        <file>Basics/Tran/keys.json</file>
+        <file>Basics/Tran/language_zh.json</file>
+        <file>Styles/Bases/BaseControlStyle.qml</file>
+        <file>Styles/Bases/BaseItemStyle.qml</file>
+        <file>Styles/Bases/BaseText.qml</file>
+        <file>Styles/Bases/BaseTooltip.qml</file>
+        <file>Styles/Bases/ButtonBaseStyle.qml</file>
+        <file>Styles/Bases/RadiusRectangle.qml</file>
+        <file>qmldir</file>
+        <file>Style.qml</file>
+        <file>Styles/Button/ButtonDefault.qml</file>
+        <file>Styles/Button/ButtonImage.qml</file>
+        <file>Fonts.qml</file>
+        <file>Basics/fonts/Font Awesome 6 Free-Solid-900.otf</file>
+        <file>Styles/Popup/PopupDefault.qml</file>
+        <file>Styles/EffEct/ClickShow.qml</file>
+        <file>Styles/Border/ResizeBorder.qml</file>
+        <file>Styles/Other/DragItem.qml</file>
+        <file>Styles/Button/ButtonCustom.qml</file>
+        <file>Styles/Wizard/Wizard.qml</file>
+        <file>Styles/Wizard/WizardPage.qml</file>
+        <file>Styles/Input/SearchBar.qml</file>
+        <file>Styles/Bases/TextFieldBaseStyle.qml</file>
+        <file>Styles/Border/DefaultBorder.qml</file>
+        <file>Styles/Button/ButtonIcon.qml</file>
+        <file>Styles/Button/ButtonIconTransparent.qml</file>
+    </qresource>
+</RCC>
